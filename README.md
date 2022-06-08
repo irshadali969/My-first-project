@@ -1,1 +1,1 @@
-# My-first-project
+# RSVP SQL Assignment
